@@ -17,7 +17,7 @@ p{
 }
 
 .header{
-    border:1px solid black;
+    /*border:1px solid black;*/
     width: 100%;
     height:150px;
     margin-top: 190px;
@@ -25,7 +25,7 @@ p{
  
 }
 .mage{
-    border:1px solid black;
+    /*border:1px solid black;*/
     width:200px;
     display:flex;
     margin-right:450px;
@@ -35,7 +35,7 @@ p{
 }
 
 .footer{
-    border:1px solid black;
+    /*border:1px solid black;*/
     height:200px;
     background-color: #002D62;
     font-family: 'Montserrat', sans-serif;
@@ -65,15 +65,16 @@ p{
 
 
 .stud{
-    border:1px solid black;
+    /*border:1px solid black;*/
     height:500px;
     width: 350px;
-    margin:0 auto;
+    /*margin:0 auto;*/
+    margin-left:590px;
 
 }
 
 .plan{
-    border:1px solid black;
+    /*border:1px solid black;*/
     width:470px;
     margin-left:-490px;
     margin-top:-350px;
@@ -84,7 +85,7 @@ p{
     
 }
 .moreinfo{
-    border:1px solid black;
+   /*border:1px solid black;*/
     height:70px;
     width:190px;
     margin-left: -500px;
@@ -110,7 +111,7 @@ p{
 }
 */
 .user{
-    border:1px solid black;
+   /*border:1px solid black;*/
     margin-top: -50px;
     width:60px;
     height:50px;
@@ -119,14 +120,14 @@ p{
 }
 
 .learn{
-    border:1px solid black;
+    /*border:1px solid black;*/
     margin-top: -50px;
     width:60px;
     height:50px;
     margin-left: 160px; 
 }
 .arrow{
-    border:1px solid black;
+    /*border:1px solid black;*/
     margin-top: -43px;
     width:60px;
     height:50px;
@@ -145,14 +146,14 @@ p{
     float:right;
     height:50px;
     margin-right:360px;
-    margin-top: 40px;
+    margin-top: -38px;
     border-radius:40px;
 }
 
 
 
 .parentbox{
-    border:1px solid black;
+     /*border:1px solid black;*/
     height:300px;
     display:flex;
     margin-top:100px;
@@ -162,7 +163,7 @@ p{
 }
 
 .box1{
-    border:1px solid black;
+   /*border:1px solid black;*/
     width:1800px;
     height:250px;
     border-radius:10px;
@@ -174,7 +175,7 @@ p{
 }
 
 .box2{
-    border:1px solid black;
+    /*border:1px solid black;*/
     width:1800px;
     height:250px;
     margin-left: 190px;
@@ -185,7 +186,7 @@ p{
 }
 
 .box3{
-    border:1px solid black;
+     /*border:1px solid black;*/
     width:1800px;
     height:250px;
     margin-left: 190px;
